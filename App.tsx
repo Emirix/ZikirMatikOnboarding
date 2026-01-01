@@ -1,0 +1,1 @@
+// Bu dosya artık kullanılmıyor. index.tsx içindeki saf JS kodu çalışıyor.

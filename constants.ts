@@ -1,0 +1,1 @@
+// Veriler index.tsx içine taşındı.
